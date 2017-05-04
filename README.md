@@ -13,4 +13,4 @@ If you don't have git, then:
 - then move SDL2Games-master into SDL2Project2017-master
 - finally, make sure that:
   - Both **SDL2Games-master** and **SDL2libs** are in folder**SDL2Project2017-master** 
-  - The folder **SDL2Games-master** contains **HanoiTower** 
+  - The folder **SDL2Games-master** contains the sub folder: **HanoiTower** 
