@@ -1,0 +1,10 @@
+./*/build
+./*/Debug
+./*/Release
+./*/ipch
+./*/*.opensdf
+./*/*.kdev4
+./*/*.sdf
+./*/*.suo
+./*/.kdev4
+
